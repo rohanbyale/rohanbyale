@@ -1,6 +1,7 @@
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_rohan__04_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/RohanByale) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:byalerohan@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_rohan__04_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/RohanByale) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:byalerohan@gmail.com)
+
 <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" alt="Banner" width="100%">
 
 # 💻 Tech Stack:
