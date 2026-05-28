@@ -2,7 +2,30 @@
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_rohan__04_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/RohanByale) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:byalerohan@gmail.com)
 
-<img src="https://komarev.com/ghpvc/?username=rohanbyale&style=flat-round&color=red" alt=""/>
+<!-- Animated GitHub Profile Views Counter -->
+<div align="center">
+
+<img 
+  src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=👀+Profile+Visitors;Welcome+to+Rohan+Byale's+GitHub;🚀+MERN+Stack+Developer;💻+Building+AI+Powered+Projects" 
+  alt="Typing Animation"
+/>
+
+<br><br>
+
+<a href="https://github.com/rohanbyale">
+  <img 
+    src="https://komarev.com/ghpvc/?username=rohanbyale&label=🔥+PROFILE+VIEWS&color=ff0000&style=for-the-badge" 
+    alt="Profile Views"
+  />
+</a>
+
+<br><br>
+
+<img 
+  src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=120&section=footer" 
+/>
+
+</div>
 <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="Animated Gif" height="400px" width="500px"/>
 
 
