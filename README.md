@@ -2,20 +2,17 @@
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_rohan__04_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/RohanByale) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:byalerohan@gmail.com)
 
-<!-- Animated GitHub Profile Views Counter -->
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=2500&pause=800&color=00FFAA&center=true&vCenter=true&width=800&lines=⚡+ROHAN+BYALE+⚡;FULL+STACK+DEVELOPER;AI+%7C+MERN+%7C+OPEN+SOURCE" />
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=rohanbyale&label=VISITORS&color=00ffaa&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=rohanbyale&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" />
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ffaa,100:000000&height=2&section=header"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;AI+Projects+Builder;Open+Source+Enthusiast;Always+Learning+🚀" />
 
 </div>
+
+...
 <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="Animated Gif" height="400px" width="500px"/>
 
 
