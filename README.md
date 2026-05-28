@@ -5,25 +5,15 @@
 <!-- Animated GitHub Profile Views Counter -->
 <div align="center">
 
-<img 
-  src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=👀+Profile+Visitors;Welcome+to+Rohan+Byale's+GitHub;🚀+MERN+Stack+Developer;💻+Building+AI+Powered+Projects" 
-  alt="Typing Animation"
-/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=2500&pause=800&color=00FFAA&center=true&vCenter=true&width=800&lines=⚡+ROHAN+BYALE+⚡;FULL+STACK+DEVELOPER;AI+%7C+MERN+%7C+OPEN+SOURCE" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=rohanbyale&label=VISITORS&color=00ffaa&style=for-the-badge" />
 
 <br><br>
 
-<a href="https://github.com/rohanbyale">
-  <img 
-    src="https://komarev.com/ghpvc/?username=rohanbyale&label=🔥+PROFILE+VIEWS&color=ff0000&style=for-the-badge" 
-    alt="Profile Views"
-  />
-</a>
-
-<br><br>
-
-<img 
-  src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=120&section=footer" 
-/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ffaa,100:000000&height=2&section=header"/>
 
 </div>
 <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="Animated Gif" height="400px" width="500px"/>
