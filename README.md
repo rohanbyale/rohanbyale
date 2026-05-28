@@ -25,26 +25,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rohanbyale&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rohanbyale&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF"/>
-
-<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanbyale&layout=donut&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF"/>
-
-</div>
-```
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=rohanbyale&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanbyale&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8"/>
-
-</div>
-
-
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rohanbyale&theme=radical&no-frame=false&no-bg=true&margin-w=4)
