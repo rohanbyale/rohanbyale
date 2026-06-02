@@ -35,4 +35,34 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=rohanbyale&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<h2 align="center">📊 GitHub Statistics</h2>
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <h3>💻 Most Used Languages</h3>
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaninnn&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+        alt="Top Languages"
+        width="100%"
+      />
+    </td>
+
+    <td align="center" width="50%">
+      <h3>📈 GitHub Stats</h3>
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=Joaninnn&show_icons=true&theme=tokyonight&hide_border=true"
+        alt="GitHub Stats"
+        width="100%"
+      />
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Joaninnn&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
