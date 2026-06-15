@@ -5,7 +5,7 @@
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=rohanbyale&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" />
-<img src="https://komarev.com/ghpvc/?username=rohanbyale&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" />
+<img src="https://img.shields.io/badge/dynamic/json?color=ff007f&label=PROFILE%20VIEWS&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Frohanbyale%2Fvisits&style=for-the-badge&logo=github&logoColor=white"/>
 <br><br>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;AI+Projects+Builder;Open+Source+Enthusiast;Always+Learning+🚀" />
