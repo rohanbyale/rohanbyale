@@ -26,7 +26,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=rohanbyale&theme=dark&hide_border=false)
 
 ![](https://nirzak-streak-stats.vercel.app/?user=rohanbyale&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rohanbyale&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanbyale&layout=compact&theme=tokyonight&hide_border=true"/>
 
 ## 🔥 GitHub Streak
 
