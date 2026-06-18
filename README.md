@@ -25,7 +25,9 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=rohanbyale&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rohanbyale&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rohanbyale&theme=tokyonight&hide_border=true)
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=rohanbyale&theme=tokyonight&hide_border=true)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rohanbyale&theme=radical&no-frame=false&no-bg=true&margin-w=4)
