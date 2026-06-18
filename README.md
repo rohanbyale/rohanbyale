@@ -52,5 +52,5 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohanbyale&theme=tokyonight" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohanbyale&theme=tokyo-night" />
-
+![Metrics](https://metrics.lecoq.io/rohanbyale?template=classic&achievements=1)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
