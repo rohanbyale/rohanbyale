@@ -31,7 +31,7 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rohanbyale&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohanbyale&show_icons=true&theme=tokyonight)
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
