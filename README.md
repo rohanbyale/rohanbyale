@@ -8,8 +8,7 @@
 
 <br><br>
 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=rohanbyale&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rohanbyale.rohanbyale)
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;AI+Projects+Builder;Open+Source+Enthusiast;Always+Learning+🚀" />
 
