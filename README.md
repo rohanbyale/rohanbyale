@@ -9,8 +9,7 @@
 <br><br>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rohanbyale.rohanbyale)
-![GitHub followers](https://img.shields.io/github/followers/rohanbyale?style=for-the-badge)
-![GitHub stars](https://img.shields.io/github/stars/rohanbyale?style=for-the-badge)
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;AI+Projects+Builder;Open+Source+Enthusiast;Always+Learning+🚀" />
 
 </div>
