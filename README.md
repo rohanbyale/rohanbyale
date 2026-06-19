@@ -8,7 +8,8 @@
 
 <br><br>
 
-![](https://komarev.com/ghpvc/?username=rohanbyale&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rohanbyale.rohanbyale)
+
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;AI+Projects+Builder;Open+Source+Enthusiast;Always+Learning+🚀" />
 
