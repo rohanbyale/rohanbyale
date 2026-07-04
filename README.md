@@ -216,7 +216,8 @@ Beyond traditional engineering, I love crafting immersive digital experiences by
 <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=rohanbyale&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="100%" />
 </td>
 <td align="center" width="50%">
-<img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=rohanbyale&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="100%" />
+![](https://nirzak-streak-stats.vercel.app/?user=rohanbyale&theme=dark&hide_border=false)<br/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanbyale&layout=compact&theme=tokyonight&hide_border=true"/>
 </td>
 </tr>
 </table>
