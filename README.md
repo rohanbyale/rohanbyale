@@ -163,6 +163,8 @@
 </div>
 
 # 📊 GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohanbyale&show_icons=true&theme=transparent&bg_color=1a1b26&title_color=7aa2f7&icon_color=7abc6f&text_color=a9b1d6)
+
 ![GitHub Stats](https://github-readme-stats-vercel-psi-seven.vercel.app/api?username=rohanbyale&show_icons=true&theme=tokyonight)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohanbyale&show_icons=true&theme=tokyonight)
 
