@@ -272,6 +272,25 @@ Learning & building
 ---
 [![](https://visitcount.itsvg.in/api?id=rohanbyale&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## ✍️ Quote & Traffic
+
+<div align="center">
+
+### Dev Quote
+<table>
+<tr>
+<td align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+</td>
+</tr>
+</table>
+
+### Profile Visits
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=rohanbyale&icon=0&color=0" alt="Visit Count" />
+</a>
+
+</div>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rohanbyale&theme=tokyonight" />
 
