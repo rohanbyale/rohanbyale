@@ -204,23 +204,8 @@ Beyond traditional engineering, I love crafting immersive digital experiences by
 
 <img src="https://github-profile-trophy.vercel.app/?username=rohanbyale&theme=tokyonight&no-frame=true&row=1&column=7" />
 
-## 📊 Activity & Achievements
 
-<div align="center">
 
-### GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=rohanbyale&theme=tokyonight&hide_border=true)
-
-### GitHub Trophies
-<table>
-<tr>
-<td align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=rohanbyale&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-</td>
-</tr>
-</table>
-
-</div>
 
 ## Beyond Code
 
