@@ -190,7 +190,7 @@
 Grinding Free Fire
 </td>
 <td align="center" width="25%">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGM3YzM3ZzJ6YjJ6aGVpbnZ5OHF5YzBxbGJ5M2Z4NXdzcWQwZ3RxYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QWH5iJhUtTAHcSaZTI/giphy.gif" width="100" /><br>
+<img src="https://i.pinimg.com/1200x/66/99/b1/6699b139e747aa41daec3ed40f8487f3.jpg" width="100" /><br>
 <b>DJing</b><br>
 Spinning at events
 </td>
