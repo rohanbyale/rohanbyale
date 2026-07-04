@@ -257,7 +257,7 @@ Spinning at events
 Playing the game
 </td>
 <td align="center" width="25%">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTVycjh1ejFydnBtcHBraWZiOXNxazhlN3kyOTRsMXc2YjV5NDFkZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="100" /><br>
+<img src="https://i.pinimg.com/736x/96/d1/cc/96d1cc416bfc7a2a0a16feb235f1defa.jpg" width="100" /><br>
 <b>Side Projects</b><br>
 Learning & building
 </td>
