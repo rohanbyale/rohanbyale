@@ -195,7 +195,7 @@ Grinding Free Fire
 Spinning at events
 </td>
 <td align="center" width="25%">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3h0Y3Ewb3RyeXJzbmowZDFkdnM3MXp1cnp0dnVsb3dtYnM1Z3Z3bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3NtY188QaxDdC/giphy.gif" width="100" /><br>
+<img src="https://i.pinimg.com/1200x/7a/8c/97/7a8c975740cd0a51f64585b306085571.jpg" width="100" /><br>
 <b>Cricket</b><br>
 Playing the game
 </td>
