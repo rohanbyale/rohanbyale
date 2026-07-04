@@ -289,6 +289,6 @@ Learning & building
 
 
 <div align="center">
-  <img src="https://pin.it/68hEVf60I" alt="Profile Banner" width="100%" height="190" />
+  <img src="./assets/Full HD Wallpaper ( 3840x1080 ) _ Desktop Wallpaper _ 2020.jpg" alt="Profile Banner" width="100%" height="190" />
 </div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
