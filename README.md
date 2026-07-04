@@ -220,5 +220,7 @@ Learning & building
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rohanbyale&theme=tokyonight" />
 
+![GitHub Stats](https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=rohanbyale&show_icons=true&theme=tokyonight)
+
 <img src="https://komarev.com/ghpvc/?username=rohanbyale&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" />
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
