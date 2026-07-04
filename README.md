@@ -205,6 +205,42 @@ Beyond traditional engineering, I love crafting immersive digital experiences by
 <img src="https://github-profile-trophy.vercel.app/?username=rohanbyale&theme=tokyonight&no-frame=true&row=1&column=7" />
 
 
+## 📊 Analytics & Achievements
+
+<div align="center">
+
+### GitHub Statistics & Languages
+<table>
+<tr>
+<td align="center" width="50%">
+<img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=rohanbyale&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="100%" />
+</td>
+<td align="center" width="50%">
+<img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=rohanbyale&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="100%" />
+</td>
+</tr>
+</table>
+
+### Contribution Streak
+<table>
+<tr>
+<td align="center">
+<img src="https://streak-stats.demolab.com?user=rohanbyale&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</td>
+</tr>
+</table>
+
+### GitHub Trophies
+<table>
+<tr>
+<td align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=rohanbyale&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+</td>
+</tr>
+</table>
+
+</div>
+
 
 
 ## Beyond Code
