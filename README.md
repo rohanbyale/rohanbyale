@@ -185,7 +185,7 @@
 <table>
 <tr>
 <td align="center" width="25%">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWp3N3F5ZzhkM2I5NDh2dXZ2M2NjYTh6cnN6Z3oxY2F6bW00Y3d2NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aWeisb27mZid9xKAnR/giphy.gif" width="100" /><br>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2FucGRta20zcXhtdXh2MnBpYmd2dGxocWl3NjdubjR6bG5pY2RseiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/dKAuPyCcoBiQtq1OoC/giphy.gif" width="100" /><br>
 <b>Gaming</b><br>
 Grinding Free Fire
 </td>
