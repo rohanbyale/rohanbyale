@@ -286,6 +286,14 @@ Learning & building
 </a>
 
 </div>
+### GitHub Achievements
+<table>
+<tr>
+<td align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/badges?username=rohanbyale&theme=tokyonight" alt="GitHub Badges" width="100%" />
+</td>
+</tr>
+</table>
 
 
 
