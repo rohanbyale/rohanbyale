@@ -40,7 +40,7 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="Animated Gif" height="400px" width="500px"/>
+
 
 
 
@@ -222,5 +222,4 @@ Learning & building
 
 ![GitHub Stats](https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=rohanbyale&show_icons=true&theme=tokyonight)
 
-<img src="https://komarev.com/ghpvc/?username=rohanbyale&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" />
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
