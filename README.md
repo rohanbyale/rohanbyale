@@ -40,7 +40,31 @@
 
 </div>
 
+## 👤 About Me
 
+<div align="center">
+
+<table width="100%">
+<tr>
+<td align="center" width="45%" style="vertical-align: middle;">
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="Animated Gif" width="100%" />
+</td>
+<td align="left" width="55%" style="vertical-align: middle; padding: 20px;">
+<h3>Hey there! I'm Rohan Byale 👋</h3>
+<p>
+I am a passionate <b>Full Stack Developer</b> and <b>Software Engineer</b> specializing in building high-performance web applications using the <b>MERN Stack</b> (MongoDB, Express, React, Node.js) and <b>Java Spring Boot</b>. 
+</p>
+<p>
+Beyond traditional engineering, I love crafting immersive digital experiences by combining robust backend architectures with production-grade interactive frontends utilizing <b>Three.js, GSAP, and Framer Motion</b>. I focus on writing clean, optimized code and scaling applications efficiently using modern DevOps practices like <b>Docker and Kubernetes</b>.
+</p>
+<p>
+🚀 Always building, continuously learning, and constantly pushing the boundaries of web development.
+</p>
+</td>
+</tr>
+</table>
+
+</div>
 
 
 
