@@ -2,9 +2,7 @@
   <img src="./assets/download.jpg" alt="Profile Banner" width="100%" height="180" />
 </div>
 
-
-
-## 🌐 Socials & Analytics
+## 🌐 Socials 
 
 <div align="center">
 
@@ -32,7 +30,6 @@
 </tr>
 </table>
 
-### Profile Views
 <img src="https://komarev.com/ghpvc/?username=rohanbyale&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" />
 
 </div>
