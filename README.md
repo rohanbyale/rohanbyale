@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/download.jpg" alt="Profile Banner"  width="100%" />
+  <img src="./assets/download.jpg" alt="Profile Banner" width="100%" height="180" />
 </div>
 
 ## 🌐 Socials:
