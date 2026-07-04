@@ -35,19 +35,6 @@
 </div>
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_rohan__04_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/RohanByale) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:byalerohan@gmail.com)
-
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=rohanbyale&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" />
-
-<br><br>
-
-
-
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;AI+Projects+Builder;Open+Source+Enthusiast;Always+Learning+🚀" />
 
 </div>
@@ -206,5 +193,5 @@
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rohanbyale&theme=tokyonight" />
 
-
+<img src="https://komarev.com/ghpvc/?username=rohanbyale&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" />
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
