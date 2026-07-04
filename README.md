@@ -2,6 +2,42 @@
   <img src="./assets/download.jpg" alt="Profile Banner" width="100%" height="180" />
 </div>
 
+
+
+## 🌐 Socials & Analytics
+
+<div align="center">
+
+### Connect With Me
+<table>
+<tr>
+<td align="center" width="96">
+<a href="https://linkedin.com/in/RohanByale" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="LinkedIn" />
+</a>
+<br>LinkedIn
+</td>
+<td align="center" width="96">
+<a href="https://instagram.com/_rohan__04_" target="_blank">
+<img src="https://skillicons.dev/icons?i=instagram" width="48" height="48" alt="Instagram" />
+</a>
+<br>Instagram
+</td>
+<td align="center" width="96">
+<a href="mailto:byalerohan@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" alt="Email" />
+</a>
+<br>Email
+</td>
+</tr>
+</table>
+
+### Profile Views
+<img src="https://komarev.com/ghpvc/?username=rohanbyale&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" />
+
+</div>
+
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_rohan__04_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/RohanByale) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:byalerohan@gmail.com)
 
