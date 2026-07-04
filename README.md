@@ -192,17 +192,8 @@ Beyond traditional engineering, I love crafting immersive digital experiences by
 
 ![](https://nirzak-streak-stats.vercel.app/?user=rohanbyale&theme=dark&hide_border=false)
 
-![](https://nirzak-streak-stats.vercel.app/?user=rohanbyale&theme=dark&hide_border=false)<br/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanbyale&layout=compact&theme=tokyonight&hide_border=true"/>
 
-## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=rohanbyale&theme=tokyonight&hide_border=true)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rohanbyale&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-<img src="https://github-profile-trophy.vercel.app/?username=rohanbyale&theme=tokyonight&no-frame=true&row=1&column=7" />
 
 
 ## 📊 Analytics & Achievements
@@ -216,7 +207,7 @@ Beyond traditional engineering, I love crafting immersive digital experiences by
 <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=rohanbyale&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="100%" />
 </td>
 <td align="center" width="50%">
-![](https://nirzak-streak-stats.vercel.app/?user=rohanbyale&theme=dark&hide_border=false)<br/>
+
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanbyale&layout=compact&theme=tokyonight&hide_border=true"/>
 </td>
 </tr>
