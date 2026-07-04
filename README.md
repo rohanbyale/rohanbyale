@@ -206,7 +206,7 @@ Beyond traditional engineering, I love crafting immersive digital experiences by
 <td align="center" width="50%">
 <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=rohanbyale&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="100%" />
 </td>
-<td align="center" width="50%">
+<td align="center" width="70%">
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanbyale&layout=compact&theme=tokyonight&hide_border=true"/>
 </td>
