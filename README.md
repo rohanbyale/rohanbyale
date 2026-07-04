@@ -289,18 +289,4 @@ Learning & building
 
 
 
-### ⚙️ Workflow Metrics
-<table>
-<tr>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/Maintained%3F-Yes-7aa2f7?style=flat-square&logo=github" alt="Maintained" />
-</td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/PRs-Welcome-7abc6f?style=flat-square&logo=git" alt="PRs Welcome" />
-</td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/Environment-Linux%20%2F%20Docker-e06c75?style=flat-square&logo=docker" alt="Environment" />
-</td>
-</tr>
-</table>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
