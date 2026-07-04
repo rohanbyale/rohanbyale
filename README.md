@@ -288,7 +288,14 @@ Learning & building
 </div>
 
 
-
+### ⚡ Coding Activity
+<table>
+<tr>
+<td align="center">
+<img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/wakatime?username=rohanbyale&layout=compact&theme=tokyonight&langs_count=6" alt="WakaTime Stats" width="100%" />
+</td>
+</tr>
+</table>
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
