@@ -178,6 +178,37 @@
 
 <img src="https://github-profile-trophy.vercel.app/?username=rohanbyale&theme=tokyonight&no-frame=true&row=1&column=7" />
 
+## Beyond Code
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWp3N3F5ZzhkM2I5NDh2dXZ2M2NjYTh6cnN6Z3oxY2F6bW00Y3d2NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aWeisb27mZid9xKAnR/giphy.gif" width="100" /><br>
+<b>Gaming</b><br>
+Grinding Free Fire
+</td>
+<td align="center" width="25%">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGM3YzM3ZzJ6YjJ6aGVpbnZ5OHF5YzBxbGJ5M2Z4NXdzcWQwZ3RxYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QWH5iJhUtTAHcSaZTI/giphy.gif" width="100" /><br>
+<b>DJing</b><br>
+Spinning at events
+</td>
+<td align="center" width="25%">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3h0Y3Ewb3RyeXJzbmowZDFkdnM3MXp1cnp0dnVsb3dtYnM1Z3Z3bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3NtY188QaxDdC/giphy.gif" width="100" /><br>
+<b>Cricket</b><br>
+Playing the game
+</td>
+<td align="center" width="25%">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTVycjh1ejFydnBtcHBraWZiOXNxazhlN3kyOTRsMXc2YjV5NDFkZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="100" /><br>
+<b>Side Projects</b><br>
+Learning & building
+</td>
+</tr>
+</table>
+
+</div>
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
