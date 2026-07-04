@@ -290,11 +290,10 @@ Learning & building
 <table>
 <tr>
 <td align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/badges?username=rohanbyale&theme=tokyonight" alt="GitHub Badges" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1a1b26&height=120&section=header&text=MERN%20Full%20Stack%20Developer&fontSize=24&fontColor=7aa2f7" alt="GitHub Achievements" width="100%" />
 </td>
 </tr>
 </table>
-
 
 
 
