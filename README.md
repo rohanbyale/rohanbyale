@@ -286,14 +286,7 @@ Learning & building
 </a>
 
 </div>
-### GitHub Achievements
-<table>
-<tr>
-<td align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1a1b26&height=120&section=header&text=MERN%20Full%20Stack%20Developer&fontSize=24&fontColor=7aa2f7" alt="GitHub Achievements" width="100%" />
-</td>
-</tr>
-</table>
+
 
 
 
