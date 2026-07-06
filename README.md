@@ -200,7 +200,6 @@ Beyond traditional engineering, I love crafting immersive digital experiences by
 </tr>
 </table>
 
-
 ### Contribution Streak
 <table>
 <tr>
@@ -214,7 +213,8 @@ Beyond traditional engineering, I love crafting immersive digital experiences by
 <table>
 <tr>
 <td align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=rohanbyale&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=rohanbyale&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </td>
 </tr>
 </table>
