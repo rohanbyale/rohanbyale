@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/Frozen Eyes, Burning Rage ❄️👁️🔥.jpg" alt="Profile Banner" width="100%" height="190" />
+  <img src="./assets/ChatGPT Image Jul 6, 2026, 03_19_15 PM.png" alt="Profile Banner" width="100%" height="190" />
 </div>
 
 ## 🌐 Socials 
