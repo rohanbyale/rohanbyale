@@ -126,7 +126,7 @@ Beyond traditional engineering, I love crafting immersive digital experiences by
 <br>GSAP
 </td>
 <td align="center" width="96">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLrSlRuDmCk0MjBCbFgbRoL8NCilKgYe21FG5fq_PHDQ&s=10" width="48" height="48" alt="Framer Motion" />
+<img src="https://res.cloudinary.com/dl2adjye7/image/upload/v1716466543/framer_zwbowr.png" width="48" height="48" alt="Framer Motion" />
 <br>Motion
 </td>
 </tr>
