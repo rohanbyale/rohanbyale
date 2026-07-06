@@ -122,7 +122,7 @@ Beyond traditional engineering, I love crafting immersive digital experiences by
 <br>Three.js
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=gsap" width="48" height="48" alt="GSAP" />
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJWyuvw_2-8klDT7VzT3lkYy09MFOK3oI9xDgn02TUew&s=10" width="48" height="48" alt="GSAP" />
 <br>GSAP
 </td>
 <td align="center" width="96">
