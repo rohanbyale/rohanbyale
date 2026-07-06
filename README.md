@@ -232,7 +232,7 @@ Beyond traditional engineering, I love crafting immersive digital experiences by
 <td align="center" width="25%">
 <img src="https://i.pinimg.com/736x/c5/21/64/c521649a9f031192248c9a779e8713a8.jpg" width="100" /><br>
 <b>Gaming</b><br>
-Grinding Free Fire
+Grinding Games
 </td>
 <td align="center" width="25%">
 <img src="https://i.pinimg.com/1200x/66/99/b1/6699b139e747aa41daec3ed40f8487f3.jpg" width="100" /><br>
