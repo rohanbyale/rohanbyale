@@ -186,16 +186,6 @@ Beyond traditional engineering, I love crafting immersive digital experiences by
 
 </div>
 
-# 📊 GitHub Stats:
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohanbyale&show_icons=true&theme=tokyonight)
-
-![](https://nirzak-streak-stats.vercel.app/?user=rohanbyale&theme=dark&hide_border=false)
-
-
-
-
-
 ## 📊 Analytics 
 
 <div align="center">
