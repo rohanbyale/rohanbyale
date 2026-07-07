@@ -209,7 +209,7 @@ Beyond traditional engineering, I love crafting immersive digital experiences by
 </tr>
 </table>
 
-### GitHub Trophies
+
 <table>
 <tr>
 <td align="center">
