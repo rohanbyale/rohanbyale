@@ -277,6 +277,6 @@ Learning & building
 
 
 <div align="center">
-  <img src="./assets/d9916e068eb164b2e7c916fa5ea620cc.jpg" alt="Profile Banner" width="100%" height="190" />
+  <img src="./assets/d9916e068eb164b2e7c916fa5ea620cc.jpg" alt="Profile Banner" width="100%" height="150" />
 </div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
