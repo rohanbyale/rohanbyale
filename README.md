@@ -1,4 +1,4 @@
-shdhd
+shd
 <div align="center">
   <img src="./assets/Frozen Eyes, Burning Rage ❄️👁️🔥.jpg" alt="Profile Banner" width="100%" height="190" />
 </div>
