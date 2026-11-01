@@ -115,8 +115,8 @@ Beyond traditional engineering, I love crafting immersive digital experiences by
 <br>CSS3
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite" />
-<br>Vite
+<img src="https://images.seeklogo.com/logo-png/35/1/tailwind-css-logo-png_seeklogo-354675.png" width="48" height="48" alt="Vite" />
+<br>Tailwind
 </td>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=threejs" width="48" height="48" alt="Three.js" />
